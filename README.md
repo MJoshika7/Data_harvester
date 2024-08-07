@@ -29,7 +29,7 @@ The Data Harvester project is a Python-based tool designed to scrape, process, a
 - Configure the scraper settings in config.py.
 - Run the scraper:
 python scrap.py
-- Process the data 
+- Process the data: 
 python process_data.py
 
 # Acknowledgements
